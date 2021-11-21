@@ -1,0 +1,5 @@
+Due After I searched about UnityEditor.SceneManagement, it does not build on some versions
+It acually runs WITHOUT PROBLEM on my (and even I guess) your system, but for getting build it had a minor version-related problem
+that's is why I didn't get build because I had to change my uniy version if so. 
+Instead, as I talked to Mr. Amoui I uploaded Video of my game and ran the game completely.
+
